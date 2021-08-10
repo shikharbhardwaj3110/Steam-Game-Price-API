@@ -1,10 +1,3 @@
 # Steam-Game-Price-API
-An alternative to Steam API for fetching prices of games on the Steam store
+An alternative to Steam API for fetching prices of games on the Steam store. Since Steam has revoked all Steam market and store related APIs, it can help fetch prices of game titles on the store quickly.
 
-
-**How to use** :
-
-Use the address ***https://steam-game-price.herokuapp.com/api?appId=*** by filling the app id of the game to get the details. 
-Different app ids should be used for different games. 
-
-Example : ***https://steam-game-price.herokuapp.com/api?appId=730*** fetches the details of the game CS:GO.
